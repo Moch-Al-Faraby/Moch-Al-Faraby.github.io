@@ -1,0 +1,28 @@
+body {
+    background-color: #a3b1ee;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #2f323b;
+}
+
+#project {
+    padding-top: 2rem;
+    background-color: #2f323b;
+}
+
+#contact {
+    background-color: #2f323b;
+}
+
+.div {
+    height: 230px;
+    background-color: #2f323b;
+}
+
+#footer {
+   background-color:#26292e ;
+
+}
+
